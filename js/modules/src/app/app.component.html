@@ -1,0 +1,26 @@
+<app-title [subtitle]="subtitle"></app-title>
+<nav>
+  <a routerLink="contact" routerLinkActive="active">Contact</a>
+  <a routerLink="crisis"  routerLinkActive="active">Crisis Center</a>
+  <a routerLink="heroes"  routerLinkActive="active">Heroes</a>
+</nav>
+<router-outlet></router-outlet>
+
+<h3 class="first">Single</h3>
+<p-dropdown [options]="cities" [(ngModel)]="selectedCity" [disabled]="true"></p-dropdown>
+<p>Selected City: {{selectedCity ? selectedCity.name : 'none'}}</p>
+
+<h3>Editable</h3>
+<p-dropdown [options]="cars" [(ngModel)]="selectedCar" [style]="{'width':'150px'}" editable="editable"></p-dropdown>
+<p>Selected Car: {{selectedCar||'none'}}</p>
+
+<h3>Content with Filters</h3>
+<p-dropdown [options]="cars" [(ngModel)]="selectedCar2" [style]="{'width':'150px'}" filter="filter">
+  <template let-car>
+    <div class="ui-helper-clearfix" style="position: relative;height: 25px;">
+
+      <div style="font-size:14px;float:right;margin-top:4px">{{car.label}}</div>
+    </div>
+  </template>
+</p-dropdown>
+<p>Selected Car: {{selectedCar2||'none'}}</p>
