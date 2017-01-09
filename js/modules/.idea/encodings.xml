@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/modules/angular-cli.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/app-routing.module.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/app.component.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/app.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/app.module.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/contact/contact-routing.module.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/contact/contact.module.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/contact/contact.service.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/contact/contact/contact.component.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/contact/contact/contact.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/core/core.module.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/core/user.service.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/crisis/crisi.service.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/crisis/crisis-detail.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/crisis/crisis-list.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/crisis/crisis-routing.module.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/crisis/crisis.module.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/hero/hero-detail.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/hero/hero-list.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/hero/hero-routing.module.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/hero/hero.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/hero/hero.module.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/hero/hero.service.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/hero/highlight.directive.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/shared/awesome.pipe.spec.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/shared/awesome.pipe.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/shared/highlight.directive.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/shared/shared.module.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/title/title.component.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/src/app/title/title.component.ts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../buildingblock/frontend/dist/server.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../buildingblock/frontend/src/app/projects/create/create.component.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../buildingblock/frontend/src/app/projects/create/create.component.ts" charset="UTF-8" />
+  </component>
+</project>
